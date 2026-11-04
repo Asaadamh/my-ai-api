@@ -1,1 +1,4 @@
-# my-ai-api
+# my-ai-apifastapi
+uvicorn
+python-multipart
+huggingface-hub
